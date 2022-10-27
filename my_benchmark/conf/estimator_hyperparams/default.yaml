@@ -1,0 +1,4 @@
+# @package _group_
+# a set of candidate hyperparams
+lambdas:
+ - 1
